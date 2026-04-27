@@ -34,7 +34,7 @@ Below is the architectural diagram of the project, illustrating the relationship
 
 
 
-!\[System Architecture](./path-to-your-diagram-image.png)
+![System Architecture](./Flowchart&UML.png)
 
 
 
